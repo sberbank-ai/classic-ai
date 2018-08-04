@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  phonetic:
+    build: ./examples/phonetic-templates
+    ports:
+      - "8000:8000"

@@ -209,3 +209,13 @@
 - [`base-python`](examples/base-python): шаблон для Python
 - [`examples/phonetic-templates`](examples/phonetic-templates): генератор на основе фонетических шаблонов
 
+## Запуск примера 
+
+### На основе фонетического шаблона
+
+Для запуска примера должен быть установлен и настроен docker. 
+
+```bash
+docker-compose up phonetic
+```
+
