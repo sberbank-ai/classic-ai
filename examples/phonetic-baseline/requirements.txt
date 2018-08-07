@@ -1,0 +1,7 @@
+numpy
+scipy
+gensim
+nltk
+flask
+pymystem3
+

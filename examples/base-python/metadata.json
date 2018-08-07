@@ -1,4 +1,4 @@
 {
     "image": "sberbank/python",
-    "entry_point": "python generator_server.py"
+    "entry_point": "python server.py"
 }
