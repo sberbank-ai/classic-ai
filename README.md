@@ -206,7 +206,7 @@
 
 ## Примеры решений
 
-В каталоге [`examples`](examples) можно найти примеры решений, готорвые к отправке в систему.
+В каталоге [`examples`](examples) можно найти примеры решений, готовые к отправке в систему.
 
 - [`base-python`](examples/base-python): шаблон для Python
 - [`examples/phonetic-baseline`](examples/phonetic-baseline): генератор на основе фонетических шаблонов
