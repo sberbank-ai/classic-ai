@@ -65,8 +65,8 @@ chardet                   3.0.4            py36h0f667ec_1
 click                     6.7              py36h5253387_0  
 click-plugins             1.0.3                      py_1    conda-forge
 click-plugins             1.0.3                     <pip>
-cligj                     0.4.0                    py36_0    conda-forge
 cligj                     0.4.0                     <pip>
+cligj                     0.4.0                    py36_0    conda-forge
 cloudpickle               0.4.0            py36h30f8c20_0  
 clyent                    1.2.2            py36h7e57e65_1  
 cmudict                   0.4.1                     <pip>
@@ -91,11 +91,11 @@ cvxpy                     1.0.6                     <pip>
 cycler                    0.10.0           py36h93f1223_0  
 cymem                     1.31.2                   py36_0    conda-forge
 cysignals                 1.7.1                     <pip>
-Cython                    0.28.4                    <pip>
 cython                    0.26.1           py36h21c49d0_0  
+Cython                    0.28.4                    <pip>
 cytoolz                   0.8.2            py36h708bfd4_0  
-dask                      0.18.1                    <pip>
 dask                      0.15.4           py36h31fc154_0  
+dask                      0.18.1                    <pip>
 dask-core                 0.15.4           py36h7045e13_0  
 dask-glm                  0.1.0                     <pip>
 dask-ml                   0.7.0                     <pip>
@@ -113,8 +113,8 @@ Delorean                  1.0.0                     <pip>
 descartes                 1.1.0                      py_1    conda-forge
 dill                      0.2.8.2                  py36_0    conda-forge
 dipy                      0.14.0                    <pip>
-distributed               1.22.0                    <pip>
 distributed               1.19.1           py36h25f3894_0  
+distributed               1.22.0                    <pip>
 docopt                    0.6.2                     <pip>
 docutils                  0.14             py36hb0f60f5_0  
 dora                      0.1                       <pip>
@@ -138,8 +138,8 @@ fbpca                     1.0                       <pip>
 fbprophet                 0.3.post2                py36_0    conda-forge
 featuretools              0.2.1                     <pip>
 filelock                  2.0.12           py36hacfa1f5_0  
-Fiona                     1.7.12                    <pip>
 fiona                     1.7.12                   py36_0    conda-forge
+Fiona                     1.7.12                    <pip>
 fitter                    1.0.8                     <pip>
 flake8                    3.5.0                     <pip>
 flashtext                 2.7                       <pip>
@@ -164,8 +164,8 @@ gensim                    3.5.0                     <pip>
 geographiclib             1.49                      <pip>
 Geohash                   1.0                       <pip>
 geojson                   2.4.0                     <pip>
-geopandas                 0.3.0                     <pip>
 geopandas                 0.3.0                      py_1    conda-forge
+geopandas                 0.3.0                     <pip>
 geoplot                   0.2.0                     <pip>
 geopy                     1.14.0                    <pip>
 geos                      3.6.2                hfc679d8_2    conda-forge
@@ -211,8 +211,8 @@ hep-ml                    0.5.0                     <pip>
 hmmlearn                  0.2.0                     <pip>
 holoviews                 1.10.7                     py_0    conda-forge
 hpsklearn                 0.1.0                     <pip>
-html5lib                  0.9999999                 <pip>
 html5lib                  0.999999999      py36h2cfc398_0  
+html5lib                  0.9999999                 <pip>
 httplib2                  0.11.3                    <pip>
 humanize                  0.5.1                     <pip>
 hunspell                  0.5.4                     <pip>
@@ -244,6 +244,7 @@ Janome                    0.3.6                     <pip>
 jbig                      2.1                  hdba287a_0  
 jdcal                     1.3              py36h4c697fb_0  
 jedi                      0.10.2           py36h552def0_0  
+jellyfish                 0.6.1                     <pip>
 jinja2                    2.9.6            py36h489bce4_1  
 jmespath                  0.9.3                     <pip>
 joblib                    0.12.0                    <pip>
@@ -384,8 +385,8 @@ pandoc                    1.0.2                     <pip>
 pandoc                    1.19.2.1             hea2e7c5_1  
 pandocfilters             1.4.2            py36ha6701b7_1  
 pango                     1.40.11              h8191d47_0  
-param                     1.7.0                     <pip>
 param                     1.6.1                    py36_0  
+param                     1.7.0                     <pip>
 paramnb                   2.0.4                     <pip>
 partd                     0.3.8            py36h36fd896_0  
 patchelf                  0.9                  hf79760b_2  
@@ -482,16 +483,16 @@ PySAL                     1.14.3                    <pip>
 pyshp                     1.2.12                    <pip>
 pyshp                     1.2.12                     py_0    conda-forge
 pysocks                   1.6.7            py36hd97a5b1_1  
-pystan                    2.17.1.0                 py36_0    conda-forge
 pystan                    2.17.1.0                  <pip>
+pystan                    2.17.1.0                 py36_0    conda-forge
 pytables                  3.4.4                    py36_8    conda-forge
 pytagcloud                0.3.5                     <pip>
 pytest                    3.2.1            py36h11ad3bb_1  
 pytest-cov                2.5.1                     <pip>
 pytest-mock               1.10.0                    <pip>
 python                    3.6.6                hc3d631a_0  
-python-dateutil           2.6.0                     <pip>
 python-dateutil           2.6.1            py36h88d3b88_1  
+python-dateutil           2.6.0                     <pip>
 python-igraph             0.7.1.post6              py36_4    conda-forge
 python-Levenshtein        0.12.0                    <pip>
 python-louvain            0.11                      <pip>
@@ -511,8 +512,8 @@ raccoon                   2.1.5                     <pip>
 ray                       0.5.0                     <pip>
 readline                  7.0                  ha6073c6_4  
 redis                     2.10.6                    <pip>
-regex                     2017.11.09               py36_0    conda-forge
 regex                     2017.4.5                  <pip>
+regex                     2017.11.09               py36_0    conda-forge
 requests                  2.18.4           py36he2e5f8d_1  
 requests-file             1.4.3                     <pip>
 requests-ftp              0.3.1                     <pip>
@@ -530,20 +531,20 @@ s3transfer                0.1.13                    <pip>
 sacred                    0.7.4                     <pip>
 scattertext               0.0.2.28                  <pip>
 scikit-image              0.13.0           py36had3c07a_1  
-scikit-learn              0.20.dev0                 <pip>
 scikit-learn              0.19.1           py36h7aa7ec6_0  
+scikit-learn              0.20.dev0                 <pip>
 scikit-multilearn         0.0.5                     <pip>
 scikit-optimize           0.5.2                     <pip>
 scikit-plot               0.3.5                     <pip>
 scikit-surprise           1.0.6                     <pip>
-scipy                     0.19.1           py36h9976243_3  
 scipy                     1.1.0                     <pip>
+scipy                     0.19.1           py36h9976243_3  
 scs                       2.0.2                     <pip>
-seaborn                   0.8.0            py36h197244f_0  
 seaborn                   0.8.1                     <pip>
+seaborn                   0.8.0            py36h197244f_0  
 sentencepiece             0.1.1                     <pip>
-setuptools                36.5.0           py36he42e2e1_0  
 setuptools                40.0.0                    <pip>
+setuptools                36.5.0           py36he42e2e1_0  
 shap                      0.19.3                    <pip>
 shapely                   1.6.4            py36h164cb2d_1    conda-forge
 Shapely                   1.6.4.post1               <pip>

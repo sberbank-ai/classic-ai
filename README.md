@@ -106,7 +106,7 @@
 
 Пример архива с решением:
 - [`base-python.zip`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/classic-base-python.zip)
-- [`phonetic-templates.zip`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/classic-phonetic-templates.zip)
+- [`phonetic-baseline.zip`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/classic-phonetic-baseline.zip)
 
 ### Содержимое контейнера
 
@@ -209,5 +209,5 @@
 В каталоге [`examples`](examples) можно найти примеры решений, готовые к отправке в систему.
 
 - [`base-python`](examples/base-python): шаблон для Python
-- [`examples/phonetic-baseline`](examples/phonetic-baseline): генератор на основе фонетических шаблонов
+- [`phonetic-baseline`](examples/phonetic-baseline): генератор на основе фонетических шаблонов
 
