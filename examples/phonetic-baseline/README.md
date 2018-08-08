@@ -19,7 +19,7 @@
 - [`data/word_accent.json.bz2`](data/word_accent.json.bz2) — словарь ударений (идет в архиве с решением)
 - [`classic_poems.json`](../../data/classic_poems.json) — собрания сочинений поэтов от организаторов
 - [`sdsj2017_sberquad.csv`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/sdsj2017_sberquad.csv) — набор данных для обучения вопросо-ответной системы из [Sberbank Data Science Journey 2017](https://github.com/sberbank-ai/data-science-journey-2017)
-- [`rusvectores/web_upos_cbow_300_20_2017.bin.gz`](http://rusvectores.org/static/models/web_upos_cbow_300_20_2017.bin.gz) — предобученная word2vec модель для русского языка
+- [`rusvectores/web_upos_cbow_300_20_2017.bin.gz`](http://rusvectores.org/static/models/web_upos_cbow_300_20_2017.bin.gz) — предобученная word2vec модель для русского языка (источник http://rusvectores.org/ru/models/)
 
 При локальном тестировании, общедоступные наборы данных должны лежать в каталоге `/data/` (в корне репозитория).
 
