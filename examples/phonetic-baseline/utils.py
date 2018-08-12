@@ -77,10 +77,11 @@ class PoemTemplateLoader(object):
     Шаблон — обработанное и обрезанное стихотворение в виде набора отдельных токенов (слов).
     """
 
-    def __init__(self, poems_file, min_lines=3, max_lines=8):
+    def __init__(self, poems_file, min_lines=3, max_lines=8, max_string_len=120):
         self.poet_templates = collections.defaultdict(list)
         self.min_lines = min_lines
         self.max_lines = max_lines
+        self.max_string_len = max_string_len
 
         self.load_poems(poems_file)
 
@@ -97,6 +98,7 @@ class PoemTemplateLoader(object):
         poem_lines = poem_text.split('\n')[:self.max_lines]
         poem_template = []
         for line in poem_lines:
+            line = line[:self.max_string_len]
             line_tokens = [token for token in word_tokenize(line) if token.isalpha()]
             poem_template.append(line_tokens)
         return poem_template
