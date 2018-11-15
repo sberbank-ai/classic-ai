@@ -99,15 +99,15 @@
 Что может пригодиться:
 - [Дамп Википедии на русском языке](https://dumps.wikimedia.org/ruwiki/latest/)
 - [Национальный корпус русского языка](http://www.ruscorpora.ru)
-- Набор вопросов-ответов к параграфам SberQuAD из [конкурса SDSJ-2017](https://github.com/sberbank-ai/data-science-journey-2017/tree/master/problem_B): [`sdsj2017_sberquad.csv`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/sdsj2017_sberquad.csv)
+- Набор вопросов-ответов к параграфам SberQuAD из [конкурса SDSJ-2017](https://github.com/sberbank-ai/data-science-journey-2017/tree/master/problem_B): [`sdsj2017_sberquad.csv`](https://s3.eu-central-1.amazonaws.com/datasouls/public/sdsj2017_sberquad.csv)
 
 ## Формат решений
 
 В проверяющую систему необходимо отправить код алгоритма, запакованный в ZIP-архив. Решения запускаются в изолированном окружении при помощи [Docker](https://www.docker.com/what-docker), время и ресурсы для тестирования ограничены. В простом случае, участнику нет необходимости разбираться с технологией Docker.
 
 Пример архива с решением:
-- [`base-python.zip`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/classic-base-python.zip)
-- [`phonetic-baseline.zip`](https://bucketeer-db1966c9-c9f8-427d-ae61-659a91a9fca7.s3.amazonaws.com/public/classic-phonetic-baseline.zip)
+- [`base-python.zip`](https://s3.eu-central-1.amazonaws.com/datasouls/public/classic-base-python.zip)
+- [`phonetic-baseline.zip`](https://s3.eu-central-1.amazonaws.com/datasouls/public/classic-phonetic-baseline.zip)
 
 ### Содержимое контейнера
 
